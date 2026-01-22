@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1767937524288,
+      "tag": "0000_small_whizzer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1767939766885,
+      "tag": "0001_strong_killer_shrike",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1767940112398,
+      "tag": "0002_eager_dormammu",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1767953397042,
+      "tag": "0003_smiling_obadiah_stane",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1768200174459,
+      "tag": "0004_material_rafael_vega",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1768286895809,
+      "tag": "0005_reflective_tiger_shark",
+      "breakpoints": true
+    }
+  ]
+}
